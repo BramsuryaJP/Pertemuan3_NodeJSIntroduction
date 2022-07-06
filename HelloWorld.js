@@ -5,5 +5,5 @@ console.info("Hello World");
 const name = "Bramsurya Johannes Paulus";
 
 //memanggil variable name 
-console.info(`Hello my name is ${name}`);
+console.log(`Hello my name is ${name}`);
 
